@@ -1,0 +1,19 @@
+{
+  "name": "cs-in-js",
+  "version": "1.0.0",
+  "description": "CS problems in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathanpec/CS-in-JS.git"
+  },
+  "author": "Mathan Appadurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathanpec/CS-in-JS/issues"
+  },
+  "homepage": "https://github.com/mathanpec/CS-in-JS#readme"
+}
